@@ -136,7 +136,7 @@ ${renderLicenseSection(data.license)}
 Find me on GitHub: [${data.username}](https://github.com/${data.username})<br />
 <br />
  Email me with any questions: ${data.email}<br /><br />
-_This README was generated with by [README-generator](https://github.com/Zoot83/README-generator) _
+_This README was generated with by [README-generator](https://github.com/Zoot83/Readme_generator) _
 `;
 }
 

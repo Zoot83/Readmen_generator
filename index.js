@@ -98,7 +98,6 @@ function init() {
     inquirer.prompt(questions)
     .then((answers) => {
 
-        // console.log(generateReadMe);
         writeToFile('README.md',answers);
     
         
