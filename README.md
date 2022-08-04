@@ -28,6 +28,7 @@ Website: https://github.com/Zoot83/Readme_generator
 
 ## Demo
 
+![Untitled_ Aug 4, 2022 4_45 PM](https://user-images.githubusercontent.com/105519029/182951413-3f56e63f-fa1a-4abc-a5ec-13ee0cbe3e55.gif)
 
 
 
